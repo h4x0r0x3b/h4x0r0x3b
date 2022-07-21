@@ -1,5 +1,4 @@
-<h1 align="center">utf-8 0x3b
-<br>
+<h1 align="center">
 <img src="0x3b_banner.gif"><br>
 </h1>
 
