@@ -1,6 +1,6 @@
 <h1 align="center">utf-8 0x3b
 <br>
-<img src="kali.gif"><br>
+<img src="0x3b_banner.gif"><br>
 </h1>
 
 &nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=36&multiline=true&width=970&height=65&lines=Hello+there%2C+my+fellow+anonymous+%3Chacker%2Fs%3E!)](https://git.io/typing-svg)
