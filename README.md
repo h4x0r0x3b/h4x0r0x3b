@@ -20,5 +20,5 @@ This is for educational purposes only :dart::closed_book:! _Don't use this to ta
 
 ## Download :
 ```bash
-git clone https://github.com/h4x0r0x3b/22realh4x.git
+git clone https://github.com/h4x0r0x3b/tutsh4x.git
 ```
