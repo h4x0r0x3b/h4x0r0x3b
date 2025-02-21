@@ -44,9 +44,7 @@
 + :ghost: Anonymity
 + :chains: ProxyChains
 + :unlock: Password Cracking
-+ :lady_beetle: Bugs
-+ :microbe: Virus
-+ :worm: Malware
++ :lady_beetle: Bugs | :microbe: Virus | :worm: Malware
 + :rat: Remote Access Trojan
 + :snake: Python Programming
 + :spider_web: Web Crawler | :spider: Spider
