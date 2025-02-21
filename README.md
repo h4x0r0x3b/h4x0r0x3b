@@ -1,8 +1,6 @@
-<h1 align="center">utf-8 0x3b<br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/h4x0r.0x3b.png" align="center"/>
 <img src="./banner.gif"><br>
 </h1>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/h4x0r.0x3b.png"/>
 
 &nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=36&multiline=true&width=970&height=65&lines=Hello+there%2C+my+fellow+anonymous+%3Chacker%2Fs%3E!)](https://git.io/typing-svg)
 
