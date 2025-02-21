@@ -50,9 +50,9 @@
 * :shark: Wireshark
 
 ## Tested on
-+ :desktop_computer:
-+ :computer:
-+ :iphone:
++ :desktop_computer: Desktop Computer
++ :computer: Laptop
++ :iphone: Mobile Device
 
 ## Operating System
 <ul>
