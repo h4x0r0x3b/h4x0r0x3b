@@ -1,5 +1,5 @@
 <h1 align="center">utf-8 0x3b<br>
-<img src="./src/banner.gif"><br>
+<img src="./banner.gif"><br>
 </h1>
 
 &nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=36&multiline=true&width=970&height=65&lines=Hello+there%2C+my+fellow+anonymous+%3Chacker%2Fs%3E!)](https://git.io/typing-svg)
@@ -8,7 +8,7 @@
 
 ## Disclaimer :closed_book:
 <p align="center">:dart: This is for educational purposes only! :closed_book:</p>
-<p align="center">no_entry_sign::computer:: Don't use this to take revenge :desktop_computer::skull:</p>
+<p align="center">: no_entry_sign::computer: Don't use this to take revenge :desktop_computer::skull:</p>
 <p align="center">:skull_and_crossbones: I will not be responsible for any misuse ❌ :trollface:</p>
 
 ## About :dart:
