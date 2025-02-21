@@ -29,7 +29,7 @@
 :pirate_flag::philippines:
 
 ## Disclaimer :closed_book:
-<p align="center">:dart: This is for educational purposes only! :closed_book:</p>
+<p align="center">:dart: This is for educational purposes only! :books:</p>
 <p align="center">:no_entry_sign::computer: Don't use this to take revenge :desktop_computer::skull:</p>
 <p align="center">:skull_and_crossbones: I will not be responsible for any misuse ❌ :trollface:</p>
 
@@ -40,7 +40,7 @@
 * :spider_web: Web Crawler or :spider: Spider
 * :shark: Wireshark
 
-## Tested on :computer: :desktop_computer: :iphone:
+## Tested on :desktop_computer: :computer: :iphone:
 <ul>
   <li>✅ Windows :window:</li>
   <li>✅ Linux :penguin:</li>
