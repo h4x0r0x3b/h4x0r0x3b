@@ -2,6 +2,8 @@
 <img src="./banner.gif"><br>
 </h1>
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1148550" style='border:none;'></iframe>
+
 &nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=36&multiline=true&width=970&height=65&lines=Hello+there%2C+my+fellow+anonymous+%3Chacker%2Fs%3E!)](https://git.io/typing-svg)
 
 :skull_and_crossbones::honey_pot::earth_asia::artificial_satellite::rocket::flying_saucer::no_entry::no_mobile_phones::radioactive::star::star2::star::sunny::joystick::game_die::thread::art::dark_sunglasses::battery::electric_plug::bulb::camera::film_strip::movie_camera::drop_of_blood::smoking::coffin::sagittarius::repeat::arrow_forward::arrow_up_small::arrow_down_small::arrow_backward::stop_button::high_brightness::infinity::interrobang::bangbang::question::heavy_dollar_sign::recycle::red_circle::red_square::large_orange_diamond::small_red_triangle::black_flag::white_flag::checkered_flag::electron::godmode:
@@ -37,7 +39,7 @@
 * :shipit: Ethical Hacking
 * :black_joker: Social Engineering
 * :atom: Networking
-* :lady_beetle::beetle: Bug 
+* :lady_beetle: Bug 
 * :microbe: Virus
 * :worm: Malware
 * :rat: Remote Access Trojan
