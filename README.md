@@ -28,13 +28,14 @@
 
 :pirate_flag::philippines:
 
-## Disclaimer :closed_book:
-<p align="center">:dart: This is for educational purposes only! :open_book:</p>
+## Disclaimer :scroll:
+<p align="center">:dart: This is for educational purposes only! :closed_book:</p>
 <p align="center">:no_entry_sign::computer: Don't use this to take revenge :desktop_computer::skull:</p>
 <p align="center">:skull_and_crossbones::warning: I will not be responsible for any misuse ❌ :trollface:</p>
 
 ## About :dart:
 * :shipit: Ethical Hacking
+* :black_joker: Social Engineering
 * :atom: Networking
 * :rat: Remote Access Trojan
 * :spider_web: Web Crawler or :spider: Spider
