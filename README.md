@@ -37,8 +37,11 @@
 * :shipit: Ethical Hacking
 * :black_joker: Social Engineering
 * :atom: Networking
+* :lady_beetle::beetle: Bug 
+* :microbe: Virus Malware
 * :rat: Remote Access Trojan
 * :spider_web: Web Crawler or :spider: Spider
+* :syringe: SQL Injection
 * :shark: Wireshark
 
 ## Tested on :desktop_computer: :computer: :iphone:
