@@ -8,7 +8,7 @@
 
 ## Disclaimer :closed_book:
 <p align="center">:dart: This is for educational purposes only! :closed_book:</p>
-<p align="center">: no_entry_sign::computer: Don't use this to take revenge :desktop_computer::skull:</p>
+<p align="center">:no_entry_sign::computer: Don't use this to take revenge :desktop_computer::skull:</p>
 <p align="center">:skull_and_crossbones: I will not be responsible for any misuse ❌ :trollface:</p>
 
 ## About :dart:
