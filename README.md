@@ -37,22 +37,23 @@
 <p align="center">:skull_and_crossbones: I will not be responsible for any misuse ❌ :trollface:</p>
 
 ## About :dart:
-* :shipit: Ethical Hacking
-* :black_joker: Social Engineering
-* :atom: Networking
-* :lady_beetle: Bug 
-* :microbe: Virus
-* :worm: Malware
-* :rat: Remote Access Trojan
-* :spider_web: Web Crawler or :spider: Spider
-* :syringe: SQL Injection
-* :shell: Shell Scripting
-* :shark: Wireshark
++ :shipit: Ethical Hacking
++ :clown_face: Social Engineering
++ :atom: Networking
++ :ghost: Anonymize
++ :lady_beetle: Bug 
++ :microbe: Virus
++ :worm: Malware
++ :rat: Remote Access Trojan
++ :spider_web: Web Crawler or :spider: Spider
++ :syringe: SQL Injection
++ :shell: Shell Scripting
++ :shark: Wireshark
 
 ## Tested on
-+ :desktop_computer: Desktop Computer
-+ :computer: Laptop
-+ :iphone: Mobile Device
+* :desktop_computer: Desktop Computer
+* :computer: Laptop
+* :iphone: Mobile Device
 
 ## Operating System
 <ul>
