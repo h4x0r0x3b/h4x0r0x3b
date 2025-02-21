@@ -6,31 +6,6 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/h4x0r.0x3b.png"/>
 </p>
 
-
-:skull_and_crossbones::honey_pot::earth_asia::artificial_satellite::rocket::flying_saucer::no_entry::no_mobile_phones::radioactive::star::star2::star::sunny::joystick::game_die::thread::art::dark_sunglasses::battery::electric_plug::bulb::camera::film_strip::movie_camera::drop_of_blood::smoking::coffin::sagittarius::repeat::arrow_forward::arrow_up_small::arrow_down_small::arrow_backward::stop_button::high_brightness::infinity::interrobang::bangbang::question::heavy_dollar_sign::recycle::red_circle::red_square::large_orange_diamond::small_red_triangle::black_flag::white_flag::checkered_flag::electron::godmode:
-
-:notebook_with_decorative_cover::notebook::bookmark::open_book::books::scroll::label:
-
-:moneybag::dollar::credit_card::money_with_wings:
-:receipt:
-
-:email::open_file_folder:
-
-:hammer_and_wrench::pick:
-
-:shield::gear::magnet::link:
-
-:triangular_flag_on_post:
-
-:keyboard::computer_mouse::floppy_disk:
-
-:lock::key::closed_lock_with_key:
-:old_key:
-
-:package:
-
-:pirate_flag::philippines:
-
 ## Disclaimer :warning:
 <p align="center">:dart: This is for educational purposes only! :closed_book:</p>
 <p align="center">:no_entry_sign::computer: Don't use this to take revenge :desktop_computer::skull:</p>
