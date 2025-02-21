@@ -28,20 +28,22 @@
 
 :pirate_flag::philippines:
 
-## Disclaimer :scroll:
+## Disclaimer :warning:
 <p align="center">:dart: This is for educational purposes only! :closed_book:</p>
 <p align="center">:no_entry_sign::computer: Don't use this to take revenge :desktop_computer::skull:</p>
-<p align="center">:skull_and_crossbones::warning: I will not be responsible for any misuse ❌ :trollface:</p>
+<p align="center">:skull_and_crossbones: I will not be responsible for any misuse ❌ :trollface:</p>
 
 ## About :dart:
 * :shipit: Ethical Hacking
 * :black_joker: Social Engineering
 * :atom: Networking
 * :lady_beetle::beetle: Bug 
-* :microbe: Virus Malware
+* :microbe: Virus
+* :worm: Malware
 * :rat: Remote Access Trojan
 * :spider_web: Web Crawler or :spider: Spider
 * :syringe: SQL Injection
+* :shell: Shell Scripting
 * :shark: Wireshark
 
 ## Tested on :desktop_computer: :computer: :iphone:
