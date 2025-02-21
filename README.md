@@ -40,22 +40,23 @@
 + :shipit: Ethical Hacking
 + :clown_face: Social Engineering
 + :atom: Networking
-+ :ghost: Anonymize
-+ :lady_beetle: Bug 
++ :ghost: Anonymity
++ :lady_beetle: Bugs
 + :microbe: Virus
 + :worm: Malware
 + :rat: Remote Access Trojan
-+ :spider_web: Web Crawler or :spider: Spider
++ :snake: Python Programming
++ :spider_web: Web Crawler | :spider: Spider
 + :syringe: SQL Injection
 + :shell: Shell Scripting
 + :shark: Wireshark
 
-## Tested on
+## Tested on :test_tube:
 * :desktop_computer: Desktop Computer
 * :computer: Laptop
 * :iphone: Mobile Device
 
-## Operating System
+## Operating System :gear:
 <ul>
   <li>✅ Windows :window:</li>
   <li>✅ Linux :penguin:</li>
