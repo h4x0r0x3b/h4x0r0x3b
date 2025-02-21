@@ -1,10 +1,11 @@
 <img src="./banner.gif"><br>
 
+&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=36&multiline=true&width=970&height=65&lines=Hello+there%2C+my+fellow+anonymous+%3Chacker%2Fs%3E!)](https://git.io/typing-svg)
+
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/h4x0r.0x3b.png"/>
 </p>
 
-&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=36&multiline=true&width=970&height=65&lines=Hello+there%2C+my+fellow+anonymous+%3Chacker%2Fs%3E!)](https://git.io/typing-svg)
 
 :skull_and_crossbones::honey_pot::earth_asia::artificial_satellite::rocket::flying_saucer::no_entry::no_mobile_phones::radioactive::star::star2::star::sunny::joystick::game_die::thread::art::dark_sunglasses::battery::electric_plug::bulb::camera::film_strip::movie_camera::drop_of_blood::smoking::coffin::sagittarius::repeat::arrow_forward::arrow_up_small::arrow_down_small::arrow_backward::stop_button::high_brightness::infinity::interrobang::bangbang::question::heavy_dollar_sign::recycle::red_circle::red_square::large_orange_diamond::small_red_triangle::black_flag::white_flag::checkered_flag::electron::godmode:
 
@@ -48,7 +49,12 @@
 * :shell: Shell Scripting
 * :shark: Wireshark
 
-## Tested on :desktop_computer: :computer: :iphone:
+## Tested on
++ :desktop_computer:
++ :computer:
++ :iphone:
+
+## Operating System
 <ul>
   <li>✅ Windows :window:</li>
   <li>✅ Linux :penguin:</li>
