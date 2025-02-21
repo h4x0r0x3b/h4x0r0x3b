@@ -18,13 +18,16 @@
 + :atom: Networking
 + :ghost: Anonymity
 + :chains: ProxyChains
++ :lock: Cryptography
 + :unlock: Password Cracking
++ :microscope: Deobfuscation
 + :lady_beetle: Bugs | :microbe: Virus | :worm: Malware
 + :rat: Remote Access Trojan
 + :snake: Python Programming
-+ :spider_web: Web Crawler | :spider: Spider
++ :spider_web: Web Hacking
 + :syringe: SQL Injection
 + :shell: Shell Scripting
++ :satellite antenna: Wifi Hacking
 + :shark: Wireshark
 
 ## Tested on :test_tube:
