@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/h4x0r.0x3b.png" />
-</div>
+<img src="https://tryhackme-badges.s3.amazonaws.com/h4x0r.0x3b.png" style="display: block; margin: auto;" />
 
 <img src="./banner.gif"><br>
 </h1>
