@@ -18,13 +18,13 @@
 
 :hammer_and_wrench::pick:
 
-:shield::gear::magnet::link::chains::toolbox:
+:shield::gear::magnet::link:
 
 :triangular_flag_on_post:
 
 :keyboard::computer_mouse::floppy_disk:
 
-:lock::key::closed_lock_with_key::unlock:
+:lock::key::closed_lock_with_key:
 :old_key:
 
 :package:
@@ -39,8 +39,11 @@
 ## About :dart:
 + :shipit: Ethical Hacking
 + :clown_face: Social Engineering
++ :toolbox: Social Engineering Toolkit (SET)
 + :atom: Networking
 + :ghost: Anonymity
++ :chains: ProxyChains
++ :unlock: Password Cracking
 + :lady_beetle: Bugs
 + :microbe: Virus
 + :worm: Malware
@@ -52,7 +55,7 @@
 + :shark: Wireshark
 
 ## Tested on :test_tube:
-* :desktop_computer: Desktop Computer
+* :desktop_computer: Desktop
 * :computer: Laptop
 * :iphone: Mobile Device
 
