@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/h4x0r.0x3b.png"/>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/h4x0r.0x3b.png" alt="Your Image Badge" />
 </p>
 
 ## Disclaimer :warning:
