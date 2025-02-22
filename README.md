@@ -3,7 +3,7 @@
 &nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=36&multiline=true&width=970&height=65&lines=Hello+there%2C+my+fellow+anonymous+%3Chacker%2Fs%3E!)](https://git.io/typing-svg)
 
 <p align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1148550" style='border:none;'></iframe>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/h4x0r.0x3b.png"/>
 </p>
 
 ## Disclaimer :warning:
